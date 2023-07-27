@@ -1,4 +1,7 @@
 body {
     background-color: #0c080a;
-    background-image:url("birds22.jpeg");
+    background: url("Untitled-Artwork.png22.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
